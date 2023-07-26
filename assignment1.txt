@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title> </title>
+
+    </head>
+    <body>
+      
+
+      <h1>The importance of Learning to Code </h1>
+      <h2>How Basic Coding Skills Can Benefit Your Career and Daily Life </h2>
+
+   <p>In today's digital age,coding has become an essestial skill for people from all walks of life.
+    whether u r a student, a professional,or simply someone looking to improve your computer literacy,learningto code
+    can have numerous benefits. </p>
+    <br>
+   <p> coding needs a great patience </p>
+
+      <img src="/images/4817d30e80386570d8698074da786844.jpg" width="300",height="500" title="QURANUL KERIM">  
+
+    </body>
+</html>
